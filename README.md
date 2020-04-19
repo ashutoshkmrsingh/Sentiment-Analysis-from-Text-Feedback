@@ -9,3 +9,6 @@ Software labels natural language texts with positive, negative and neutral categ
 
 ## Opinion Summarization
 It is difficult for web users to read and understand contents from a large number of reviews. The software extracts important and useful information from reviews and summarizes it and also generate a view about subjectivity and objectivity of each review.
+
+
+### Project: https://drive.google.com/open?id=12s7C4LM4l0uixBPSfGrIq2lHEdWVP_63
